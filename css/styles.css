@@ -70,3 +70,9 @@ footer .contenedor {
 .icon-footer {
     height: 25px;
 }
+
+@media(min-width:1024px) {
+    .contenedor {
+        width: 1000px;
+    }
+}

@@ -9,6 +9,10 @@ header label {
     cursor: pointer;
 }
 
+h1 img {
+    margin: 0px 10px;
+}
+
 header .contenedor {
     display: table;
 }

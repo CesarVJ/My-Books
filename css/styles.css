@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+2|Oswald&display=swap');
 @import url('menu.css');
 @import url('banner.css');
+@import url('blog.css');
 * {
     padding: 0px;
     margin: 0px;
@@ -38,4 +39,8 @@ h1 {
 section {
     width: 100%;
     margin-bottom: 25px;
+}
+
+#bienvenidos {
+    text-align: center;
 }
